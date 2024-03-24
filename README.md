@@ -1,2 +1,2 @@
 # HTML-CSS.
-Repertório dedicado ao primeiro projeto de HTML e CSS na prática utilizando a ferramenta Visual Studio Code.
+Repertório dedicado aos projetos de HTML e CSS com a ferramenta Visual Studio Code.
